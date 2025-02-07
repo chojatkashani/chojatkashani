@@ -34,6 +34,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Learning Tools                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | How to Read a Wireshark TCP/HTTP log          | <a href="https://github.com/chojatkashani/How-to-Read-Wireshark-TCP-HTTP-log/blob/main/README.md">Guide</a>|
+| Control Catagories          | <a href="https://github.com/chojatkashani/Control-Catagories">Catagories</a>|
 
 ### Network
 <div>
@@ -67,10 +68,9 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 </div>
 
 ## Projects
-- <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
-- Test Project
-- <a href="https://github.com/chojatkashani/Control-Catagories">Control Catagories</a>
+
+  
 
 
 
