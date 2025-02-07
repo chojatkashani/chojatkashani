@@ -68,7 +68,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 </div>
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/chojatkashani/Control-Catagories">Cybersecurity Incident Report: Network Traffic Analysis</a>
 
   
 
