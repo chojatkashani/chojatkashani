@@ -70,6 +70,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 ## Projects
 - <a href="https://github.com/chojatkashani/Cybersecurity-Incident-Report-Network-Traffic-Analysis/blob/main/README.md">Cybersecurity Incident Report: Network Traffic Analysis</a>
 - <a href="https://github.com/chojatkashani/Analyze-Network-Attacks/blob/main/README.md">Analyze Network Attacks</a>
+- <a href="https://github.com/chojatkashani/Security-Risk-Assessment-Report/blob/main/README.md">Security Risk Assessment Report</a>
 
 
 
