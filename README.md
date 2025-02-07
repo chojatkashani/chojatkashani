@@ -31,7 +31,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | PASTA Threat Modeling | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Outline</a>|
 | Playbook | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Playbook</a>|
 | Escalation Handeling | <a href="https://github.com/chojatkashani/Ticketing-Example/blob/main/README.md">Ticketing</a>|
-
+| File Hash Value | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malicious</a>|
 
 
 <brk>
