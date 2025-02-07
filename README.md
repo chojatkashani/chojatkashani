@@ -35,6 +35,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 |-----------------------------------------------|----------------------------|
 | How to Read a Wireshark TCP/HTTP log          | <a href="https://github.com/chojatkashani/How-to-Read-Wireshark-TCP-HTTP-log/blob/main/README.md">Guide</a>|
 | Control Catagories          | <a href="https://github.com/chojatkashani/Control-Catagories">Catagories</a>|
+| How to Read the tcpdump Traffic log            | <a href="https://github.com/chojatkashani/How-to-Read-the-tcpdump-traffic-log/blob/main/README.md">Example</a>|
 
 ### Network
 <div>
