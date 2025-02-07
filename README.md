@@ -26,7 +26,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Incident Report Analysis | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Report Examples</a>|
 | Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
 | Linux | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux 101</a>|
-| SQL | <a href="| Linux | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux 101</a>|">Linux 101</a>|
+| SQL | <a href="https://github.com/chojatkashani/SQL-Queries">Applying Filters in SQL</a>|
 
 
 <brk>
