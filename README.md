@@ -27,8 +27,13 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
 
 
+<brk>
+
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+| Learning Tools                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| How to Read a Wireshark TCP/HTTP log          | <a href="https://github.com/chojatkashani/How-to-Read-Wireshark-TCP-HTTP-log/blob/main/README.md">Guide</a>|
 
 ### Network
 <div>
@@ -66,3 +71,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 - SOC Automation Project
 - Test Project
 - <a href="https://github.com/chojatkashani/Control-Catagories">Control Catagories</a>
+
+
+
+
