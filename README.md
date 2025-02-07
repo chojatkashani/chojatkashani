@@ -61,3 +61,4 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 - <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - Test Project
+- Network Catagories
