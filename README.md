@@ -27,6 +27,8 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
 | Linux | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux 101</a>|
 | SQL | <a href="https://github.com/chojatkashani/SQL-Queries">Applying Filters in SQL</a>|
+| PASTA Threat Modeling | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Outline</a>|
+
 
 
 <brk>
