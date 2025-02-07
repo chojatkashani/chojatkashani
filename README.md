@@ -52,6 +52,8 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Wireshark tcpdump           | <a href="https://github.com/chojatkashani/Wireshark-tcpdump-VIN/blob/main/README.md">VIN Diagram</a>|
 | Python Useful Tools           | <a href="https://github.com/chojatkashani/Python-Concepts/blob/main/README.md">Reference</a>|
 | IPv4 vs IPv6           | <a href="https://github.com/chojatkashani/IPv4-vs-IPv6/blob/main/README.md">Diagrams</a>|
+| TCP/IP vs OSI           | <a href="https://github.com/chojatkashani/TCP-IP-vs-OSI-Model/blob/main/README.md">Key Points</a>|
+
 
 
 
