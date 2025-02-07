@@ -23,7 +23,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Security Audit | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Security Audit Report</a>|
-| Incident Report Analysis | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Incident Report Analysis</a>|
+| Incident Report Analysis | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Incident Report Analysis</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
