@@ -18,6 +18,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| NIST SP 800-53:AC-6 | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Outline</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
