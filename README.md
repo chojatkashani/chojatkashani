@@ -24,7 +24,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Security Audit | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Security Audit Report</a>|
 | Incident Report Analysis | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Report Examples</a>|
-| Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">Applying the NIST CSF</a>|
+| Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
 
 
 ## Tools
