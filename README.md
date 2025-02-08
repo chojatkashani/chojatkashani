@@ -21,7 +21,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | NIST SP 800-53:AC-6 | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Outline</a>|
 | IDS/IPS         | <a href="https://github.com/chojatkashani/SNORT/edit/main/README.md">Snort</a>|
 | Threat Detection          | <a href="https://github.com/chojatkashani/Chronicle/blob/main/README.md">Google Chronicle</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/chojatkashani/Incident-Response/blob/main/README.md">NIST 800-61</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/chojatkashani/Scripting-and-Automation-for-Threat/blob/main/README.md">Example</a>|
 | Security Audit | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Security Audit Report</a>|
