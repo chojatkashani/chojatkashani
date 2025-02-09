@@ -8,9 +8,7 @@ I am a Cybersecurity Analyst and Technical Problem-Solver with a strong foundati
 
 
 
-I am a **Chief Technology Officer (CTO) with a passion for cybersecurity, automation, and digital risk management**. With a strong foundation in **computer science, data analysis, and system security**, I lead **strategic initiatives** to protect digital assets, **optimize security architectures**, and drive **technological innovation**.  
-
-My expertise in **coding, scripting, and security automation** enables me to enhance **operational resilience, threat detection, and incident response** across multiple environments.
+I am a **Chief Technology Officer (CTO) with a passion for cybersecurity, automation, and digital risk management**. With a strong foundation in **computer science, data analysis, and system security**, I lead **strategic initiatives** to protect digital assets, **optimize security architectures**, and drive **technological innovation**.  My expertise in **coding, scripting, and security automation** enables me to enhance **operational resilience, threat detection, and incident response** across multiple environments.
 
 
 <!--
@@ -187,13 +185,20 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
     <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-
+<!--
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
+-->
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-F02D1B?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+</div>
 
 
 ### SIEM
@@ -215,6 +220,26 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+
+
+## Certifications
+
+<div>
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Manage%20Security%20Risks-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Networks%20and%20Network%20Security-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20and%20SQL%20for%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Detection%20and%20Response-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Automate%20Cybersecurity%20Tasks%20with%20Python-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<!--    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+<!--    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
+<!--    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
+</div>
+
 <!--
 ## Projects
 - <a href="https://github.com/chojatkashani/Cybersecurity-Incident-Report-Network-Traffic-Analysis/blob/main/README.md">Cybersecurity Incident Report: Network Traffic Analysis</a>
