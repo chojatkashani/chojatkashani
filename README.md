@@ -12,7 +12,7 @@ I am a Cybersecurity Analyst and Technical Problem-Solver with a strong foundati
 I aim to leverage my analytical skills and technical expertise to solve complex security challenges, automate critical tasks, and fortify systems against evolving threats. Driven by progress and precision, I seek opportunities where innovation, integrity, and impact drive meaningful advancements in cybersecurity. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
