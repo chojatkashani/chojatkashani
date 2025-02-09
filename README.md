@@ -105,7 +105,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 
 <brk>
 
-
+<!--
 ## Tools
 | Learning Tools                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -122,9 +122,35 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 
 
 
+## Tools
+| Learning Tools                                  | Associated Project         |
+|------------------------------------------------|----------------------------|
+| Network Traffic Analysis (Wireshark & tcpdump) | <a href="https://github.com/chojatkashani/Wireshark-tcpdump-VIN/blob/main/README.md">Network Packet Visualization</a> |
+| Analyzing tcpdump Logs                         | <a href="https://github.com/chojatkashani/How-to-Read-the-tcpdump-traffic-log/blob/main/README.md">Log Analysis Guide</a> |
+| Interpreting Wireshark TCP/HTTP Logs           | <a href="https://github.com/chojatkashani/How-to-Read-Wireshark-TCP-HTTP-log/blob/main/README.md">Traffic Analysis Guide</a> |
+| Security Control Categories                    | <a href="https://github.com/chojatkashani/Control-Catagories">Framework Mapping</a> |
+| Incident Handler's Logbook                     | <a href="https://github.com/chojatkashani/Incident-Handler-Journal/blob/main/README.md">Incident Response Journal</a> |
+| Linux Command Reference                        | <a href="https://github.com/chojatkashani/Reference-Guide-for-Linux/blob/main/README.md">CLI Cheat Sheet</a> |
+| SQL Query Reference                            | <a href="https://github.com/chojatkashani/Reference-Guide-for-SQL/blob/main/README.md">SQL Cheat Sheet</a> |
+| Python for Security Scripting                  | <a href="https://github.com/chojatkashani/Python-Concepts/blob/main/README.md">Script Reference</a> |
+| IPv4 vs IPv6 Protocol Comparison               | <a href="https://github.com/chojatkashani/IPv4-vs-IPv6/blob/main/README.md">Protocol Diagrams</a> |
+| TCP/IP vs OSI Model Breakdown                  | <a href="https://github.com/chojatkashani/TCP-IP-vs-OSI-Model/blob/main/README.md">Layered Architecture</a> |
+-->
 
 
-
+## Tools
+| Learning Tools                                  | Associated Project         |
+|------------------------------------------------|----------------------------|
+| Network Traffic Analysis (Wireshark & tcpdump) | <a href="https://github.com/chojatkashani/Wireshark-tcpdump-VIN/blob/main/README.md">Network Packet Visualization</a> |
+| Analyzing tcpdump Logs                         | <a href="https://github.com/chojatkashani/How-to-Read-the-tcpdump-traffic-log/blob/main/README.md">Log Analysis Guide</a> |
+| Interpreting Wireshark TCP/HTTP Logs           | <a href="https://github.com/chojatkashani/How-to-Read-Wireshark-TCP-HTTP-log/blob/main/README.md">Traffic Analysis Guide</a> |
+| Security Control Categories                    | <a href="https://github.com/chojatkashani/Control-Catagories">Framework Mapping</a> |
+| Incident Handler's Logbook                     | <a href="https://github.com/chojatkashani/Incident-Handler-Journal/blob/main/README.md">Incident Response Journal</a> |
+| Python for Security Scripting                  | <a href="https://github.com/chojatkashani/Python-Concepts/blob/main/README.md">Script Reference</a> |
+| Linux Command Reference                        | <a href="https://github.com/chojatkashani/Reference-Guide-for-Linux/blob/main/README.md">CLI Cheat Sheet</a> |
+| SQL Query Reference                            | <a href="https://github.com/chojatkashani/Reference-Guide-for-SQL/blob/main/README.md">SQL Cheat Sheet</a> |
+| TCP/IP vs OSI Model Breakdown                  | <a href="https://github.com/chojatkashani/TCP-IP-vs-OSI-Model/blob/main/README.md">Layered Architecture</a> |
+| IPv4 vs IPv6 Protocol Comparison               | <a href="https://github.com/chojatkashani/IPv4-vs-IPv6/blob/main/README.md">Protocol Diagrams</a> |
 
 
 
