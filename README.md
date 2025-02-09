@@ -20,21 +20,21 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Network Intrusion Detection | <a href="https://github.com/chojatkashani/Suricata-Project/blob/main/README.md">Suricata</a>|
 | NIST SP 800-53:AC-6 | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Outline</a>|
 | IDS/IPS         | <a href="https://github.com/chojatkashani/SNORT/edit/main/README.md">Snort</a>|
-| Threat Detection          | <a href="https://github.com/chojatkashani/Chronicle/blob/main/README.md">Google Chronicle</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/chojatkashani/Incident-Response/blob/main/README.md">NIST 800-61</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/chojatkashani/Scripting-and-Automation-for-Threat/blob/main/README.md">Example</a>|
-| Security Audit | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Security Audit Report</a>|
-| Incident Report Analysis | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Report Examples</a>|
-| Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
 | Linux | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux 101</a>|
 | SQL | <a href="https://github.com/chojatkashani/SQL-Queries">Applying Filters in SQL</a>|
-| PASTA Threat Modeling | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Outline</a>|
-| Playbook | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Playbook</a>|
-| Escalation Handeling | <a href="https://github.com/chojatkashani/Ticketing-Example/blob/main/README.md">Ticketing</a>|
-| File Hash Value | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malicious</a>|
 | Python | <a href="https://github.com/chojatkashani/Python/blob/main/README.md">Programming</a>|
 | Threat Modeling | <a href="https://github.com/chojatkashani/Threat-Modeling/blob/main/README.md">Process</a>|
+| Threat Detection          | <a href="https://github.com/chojatkashani/Chronicle/blob/main/README.md">Google Chronicle</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/chojatkashani/Incident-Response/blob/main/README.md">NIST 800-61</a>|
+| Case Managment and Escalation Handeling | <a href="https://github.com/chojatkashani/Ticketing-Example/blob/main/README.md">Ticketing</a>|
+| Applying the NIST CSF | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST CSF</a>|
+| Security Audit | <a href=https://github.com/chojatkashani/Security-Audit/edit/main/README.md>Security Audit Report</a>|
+| Incident Report Analysis | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Report Examples</a>|
+| PASTA Threat Modeling | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Outline</a>|
+| Playbook | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Playbook</a>|
+| File Hash Value | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malicious</a>|
+
 
 
 
