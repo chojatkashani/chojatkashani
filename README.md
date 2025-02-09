@@ -209,7 +209,7 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </div>
 
-
+<!--
 ## Certifications
 
 <div>
@@ -220,7 +220,7 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
+-->
 
 ## Certifications
 
