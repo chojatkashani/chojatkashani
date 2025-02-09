@@ -186,15 +186,21 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
+<!--
 ## Projects
 - <a href="https://github.com/chojatkashani/Cybersecurity-Incident-Report-Network-Traffic-Analysis/blob/main/README.md">Cybersecurity Incident Report: Network Traffic Analysis</a>
 - <a href="https://github.com/chojatkashani/Analyze-Network-Attacks/blob/main/README.md">Analyze Network Attacks</a>
 - <a href="https://github.com/chojatkashani/Security-Risk-Assessment-Report/blob/main/README.md">Security Risk Assessment Report</a>
 - <a href="https://github.com/chojatkashani/Apply-OS-Hardening-Techniques/blob/main/README.md">Apply OS Hardening Techniques</a>
 - <a href="https://github.com/chojatkashani/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>
+-->
 
-
+## Projects
+- <a href="https://github.com/chojatkashani/Cybersecurity-Incident-Report-Network-Traffic-Analysis/blob/main/README.md">Incident Response: Network Traffic Analysis & Forensics</a>
+- <a href="https://github.com/chojatkashani/Analyze-Network-Attacks/blob/main/README.md">Network Attack Analysis & Mitigation</a>
+- <a href="https://github.com/chojatkashani/Security-Risk-Assessment-Report/blob/main/README.md">Enterprise Security Risk Assessment</a>
+- <a href="https://github.com/chojatkashani/Vulnerability-Assessment-Report/blob/main/README.md">Comprehensive Vulnerability Assessment</a>
+- <a href="https://github.com/chojatkashani/Apply-OS-Hardening-Techniques/blob/main/README.md">OS Hardening & Secure Configuration</a>
 
   
 
