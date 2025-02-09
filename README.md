@@ -57,7 +57,48 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | Playbook                                      | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Incident Response Playbook</a> |
 | File Hash Value                               | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malware Analysis with File Hashing</a> |
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Threat Detection                              | <a href="https://github.com/chojatkashani/Chronicle/blob/main/README.md">Google Chronicle</a> |
+| SIEM Deployment and Log Analysis              | <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a> |
+| Incident Response                             | <a href="https://github.com/chojatkashani/Incident-Response/blob/main/README.md">NIST 800-61 Playbook</a> |
+| Network Intrusion Detection                   | <a href="https://github.com/chojatkashani/Suricata-Project/blob/main/README.md">Suricata</a> |
+| IDS/IPS                                       | <a href="https://github.com/chojatkashani/SNORT/edit/main/README.md">Snort</a> |
+| Security Automation                           | <a href="https://github.com/chojatkashani/Scripting-and-Automation-for-Threat/blob/main/README.md">Python & Bash Scripting</a> |
+| Threat Modeling                               | <a href="https://github.com/chojatkashani/Threat-Modeling/blob/main/README.md">Enterprise Risk Assessment</a> |
+| NIST Cybersecurity Framework (CSF)            | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">Implementation</a> |
+| NIST SP 800-53 Compliance                     | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Access Controls (AC-6)</a> |
+| Security Auditing                             | <a href="https://github.com/chojatkashani/Security-Audit/edit/main/README.md">Enterprise Audit Report</a> |
+| Incident Analysis                             | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Forensic Report</a> |
+| Case Management & Escalation                  | <a href="https://github.com/chojatkashani/Ticketing-Example/blob/main/README.md">SOC Workflow</a> |
+| Python for Security                           | <a href="https://github.com/chojatkashani/Python/blob/main/README.md">Automation & Analysis</a> |
+| Linux Security                                | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Administration</a> |
+| SQL for Threat Analysis                       | <a href="https://github.com/chojatkashani/SQL-Queries">Data Filtering</a> |
+| PASTA Threat Modeling                         | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Risk Evaluation</a> |
+| Phishing Playbook                             | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Response Plan</a> |
+| Malware Analysis                              | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">File Hashing</a> |
 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Threat Detection                              | <a href="https://github.com/chojatkashani/Chronicle/blob/main/README.md">Google Chronicle Threat Detection</a> |
+| SIEM Deployment and Log Analysis              | <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab: SIEM and Log Analysis</a> |
+| Incident Response                             | <a href="https://github.com/chojatkashani/Incident-Response/blob/main/README.md">Incident Response Playbook (NIST 800-61)</a> |
+| Network Intrusion Detection                   | <a href="https://github.com/chojatkashani/Suricata-Project/blob/main/README.md">Suricata Network IDS Analysis</a> |
+| IDS/IPS                                       | <a href="https://github.com/chojatkashani/SNORT/edit/main/README.md">Snort Intrusion Prevention and Detection</a> |
+| Security Automation                           | <a href="https://github.com/chojatkashani/Scripting-and-Automation-for-Threat/blob/main/README.md">Automating Threat Response with Python & Bash</a> |
+| Threat Modeling                               | <a href="https://github.com/chojatkashani/Threat-Modeling/blob/main/README.md">Threat Modeling in Enterprise Security</a> |
+| NIST Cybersecurity Framework (CSF)            | <a href="https://github.com/chojatkashani/NIST-CSF/blob/main/README.md">NIST Cybersecurity Framework (CSF) Implementation</a> |
+| NIST SP 800-53 Compliance                     | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Access Control Compliance (AC-6)</a> |
+| Security Auditing                             | <a href="https://github.com/chojatkashani/Security-Audit/edit/main/README.md">Enterprise Security Audit Report</a> |
+| Incident Analysis                             | <a href="https://github.com/chojatkashani/Incident-Report-Analysis/blob/main/README.md">Real-World Incident Report Analysis</a> |
+| Case Management & Escalation                  | <a href="https://github.com/chojatkashani/Ticketing-Example/blob/main/README.md">SOC Ticketing & Escalation Workflows</a> |
+| Python for Security                           | <a href="https://github.com/chojatkashani/Python/blob/main/README.md">Cybersecurity Scripting with Python</a> |
+| Linux Security                                | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux for Security Analysts (Linux 101)</a> |
+| SQL for Threat Analysis                       | <a href="https://github.com/chojatkashani/SQL-Queries">SQL Queries for Threat Analysis</a> |
+| PASTA Threat Modeling                         | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">PASTA Threat Modeling Framework</a> |
+| Phishing Playbook                             | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Incident Response Playbook</a> |
+| Malware Analysis                              | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malware Analysis with File Hashing</a> |
 
 
 
