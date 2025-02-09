@@ -1,16 +1,30 @@
 # Hello, I'm Dexton 
 <a href="https://www.linkedin.com/in/corneliusshk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+<!--
 I am a Cybersecurity Analyst and Technical Problem-Solver with a strong foundation in computer science, data analysis, and automation. With expertise in coding, scripting, and system security, I specialize in protecting digital assets, optimizing processes, and enhancing operational efficiency.
+-->
 
 
 
+
+I am a **Chief Technology Officer (CTO) with a passion for cybersecurity, automation, and digital risk management**. With a strong foundation in **computer science, data analysis, and system security**, I lead **strategic initiatives** to protect digital assets, **optimize security architectures**, and drive **technological innovation**.  
+
+My expertise in **coding, scripting, and security automation** enables me to enhance **operational resilience, threat detection, and incident response** across multiple environments.
+
+
+<!--
 ## Objective
 
 
 I aim to leverage my analytical skills and technical expertise to solve complex security challenges, automate critical tasks, and fortify systems against evolving threats. Driven by progress and precision, I seek opportunities where innovation, integrity, and impact drive meaningful advancements in cybersecurity. 
+-->
+<brk>
+    
+## Objective
 
+I aim to **leverage analytical skills and technical expertise** to solve **complex security challenges, automate critical tasks, and strengthen systems** against evolving threats. Driven by **progress and precision**, I seek opportunities where **innovation, integrity, and impact** drive meaningful advancements in **cybersecurity**.
+<brk>
 ## Skills
 
 <!--
@@ -155,13 +169,24 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 
 
 
-
+<!--
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+-->
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
 
 ### Endpoint
 <div>
@@ -169,12 +194,16 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </div>
+
 
 ## Certifications
 
