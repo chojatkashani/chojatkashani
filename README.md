@@ -13,7 +13,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 
 ## Skills
 
-
+<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a>|
@@ -34,7 +34,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 | PASTA Threat Modeling | <a href="https://github.com/chojatkashani/PASTA-Threat-Modeling/blob/main/README.md">Outline</a>|
 | Playbook | <a href="https://github.com/chojatkashani/Phishing-Playbook/blob/main/README.md">Phishing Playbook</a>|
 | File Hash Value | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malicious</a>|
-
+-->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
