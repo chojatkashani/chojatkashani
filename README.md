@@ -18,7 +18,7 @@ I aim to leverage my analytical skills and technical expertise to solve complex 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/chojatkashani/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Intrusion Detection | <a href="https://github.com/chojatkashani/Suricata-Project/blob/main/README.md">Suricata</a>|
-| NIST SP 800-53:AC-6 | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">Outline</a>|
+| NIST SP 800-53 | <a href="https://github.com/chojatkashani/NIST-SP-800-53-AC-6/blob/main/README.md">AC-6</a>|
 | IDS/IPS         | <a href="https://github.com/chojatkashani/SNORT/edit/main/README.md">Snort</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/chojatkashani/Scripting-and-Automation-for-Threat/blob/main/README.md">Example</a>|
 | Linux | <a href="https://github.com/chojatkashani/Linux-101/blob/main/README.md">Linux 101</a>|
