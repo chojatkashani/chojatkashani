@@ -8,14 +8,14 @@ I am a Cybersecurity Analyst and Technical Problem-Solver with a strong foundati
 
 
 
-I am a **Chief Technology Officer (CTO) with a passion for cybersecurity, automation, and digital risk management**. With a strong foundation in **computer science, data analysis, and system security**, I lead **strategic initiatives** to protect digital assets, **optimize security architectures**, and drive **technological innovation**.  My expertise in **coding, scripting, and security automation** enables me to enhance **operational resilience, threat detection, and incident response** across multiple environments.
+I am a **Chief Technology Officer (CTO) with a passion for cybersecurity, automation, and digital risk management**. With a strong foundation in **computer science, data analysis, and security**, I lead **initiatives** to protect digital assets, **optimize security stance**, and drive **innovation**.  My expertise in **coding, scripting, and security automation** enables me to enhance **operational resilience, threat detection, and incident response** across environments.
 
 
 <!--
 ## Objective
 
 
-I aim to leverage my analytical skills and technical expertise to solve complex security challenges, automate critical tasks, and fortify systems against evolving threats. Driven by progress and precision, I seek opportunities where innovation, integrity, and impact drive meaningful advancements in cybersecurity. 
+I aim to leverage my analytical skills and technical expertise to solve complex security challenges, automate critical tasks, and fortify systems against evolving threats. Driven by progress and precision, I seek opportunities where innovation, AI, integrity, and impact drive meaningful advancements in cybersecurity and beyond. 
 -->
 <brk>
     
