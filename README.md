@@ -114,7 +114,6 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
 | Malware Analysis                              | <a href="https://github.com/chojatkashani/File-Hash-Malicious/blob/main/README.md">Malware Analysis with File Hashing</a> |
 
 
-
 <brk>
 
 <!--
@@ -163,6 +162,7 @@ I aim to **leverage analytical skills and technical expertise** to solve **compl
 | SQL Query Reference                            | <a href="https://github.com/chojatkashani/Reference-Guide-for-SQL/blob/main/README.md">SQL Cheat Sheet</a> |
 | TCP/IP vs OSI Model Breakdown                  | <a href="https://github.com/chojatkashani/TCP-IP-vs-OSI-Model/blob/main/README.md">Layered Architecture</a> |
 | IPv4 vs IPv6 Protocol Comparison               | <a href="https://github.com/chojatkashani/IPv4-vs-IPv6/blob/main/README.md">Protocol Diagrams</a> |
+| AI Driven Cybersecurity Automation            | <a href="https://github.com/chojatkashani/AI-Driven-CybersecurityAutomation/blob/main/README.md">ChatGPT</a> |
 
 
 
