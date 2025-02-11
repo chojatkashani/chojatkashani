@@ -1,4 +1,4 @@
-# Hello, I'm DCH 
+# Hello, I'm DCHK 
 <a href="https://www.linkedin.com/in/corneliusshk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
